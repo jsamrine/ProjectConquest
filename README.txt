@@ -1,2 +1,2 @@
 This is the readme
-More info to follow
+More info to follow...Soon
